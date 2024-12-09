@@ -16,6 +16,13 @@ body {
     font-size: 28px;
   }
 
+h4 {
+    color: navy;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+  }
+
   p {
     font-family: 'Times New Roman', Times, serif;
     font-size: 18px;
