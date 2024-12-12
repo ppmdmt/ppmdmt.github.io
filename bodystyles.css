@@ -31,6 +31,14 @@ h4 {
     width: 600px;
   }
 
+.one {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    margin-left:auto;
+    margin-right:auto;
+    width: 400px;
+}
+
   .centre {
     display: block;
     margin-left: auto;
